@@ -75,8 +75,8 @@ Metrics:
 - Threshold-based accuracy (secondary)
 
 Results:
-AUC ≈ 0.73  
-Accuracy ≈ 0.62  
+AUC ≈ 0.93  
+
 
 ---
 
